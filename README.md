@@ -260,8 +260,7 @@ glue("x + y") + " = {x + y}"
 # Other implementations
 
 Some other implementations of string interpolation in R (although not
-using identical
-    syntax).
+using identical syntax).
 
   - [stringr::str\_interp](http://stringr.tidyverse.org/reference/str_interp.html)
   - [pystr::pystr\_format](https://cran.r-project.org/package=pystr)
@@ -274,3 +273,9 @@ templating in R include.
 
   - [whisker](https://cran.r-project.org/package=whisker)
   - [brew](https://cran.r-project.org/package=brew)
+
+## Code of Conduct
+
+Please note that the glue project is released with a [Contributor Code
+of Conduct](https://glue.tidyverse.org/CODE_OF_CONDUCT.html). By
+contributing to this project, you agree to abide by its terms.

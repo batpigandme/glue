@@ -13,3 +13,5 @@
 ^docs$
 ^script\.R$
 ^_pkgdown\.yml$
+^\.github$
+^LICENSE\.md$
